@@ -1,6 +1,6 @@
 # Análise de Variação Orçamentária - Projeto de Obra
 
-![Dashboard Final](dashboard/screenshot_dashboard.png)
+![Dashboard Final](screenshot_dashboard.png.png)
 
 ## 📋 Descrição
 
