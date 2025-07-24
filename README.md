@@ -178,19 +178,6 @@ df_realizado['mes_ano'] = df_realizado['data_nf'].dt.to_period('M')
 - Não trata automaticamente variações de moeda
 - Dados ausentes são preenchidos com zero
 
-## 🔄 Melhorias Futuras
-
-- [ ] Interface gráfica para visualização
-- [ ] Relatórios automatizados em PDF
-- [ ] Análise temporal de variações
-- [ ] Alertas automáticos para desvios críticos
-- [ ] Integração com sistemas ERP
-- [ ] Dashboard interativo
-
-## 📞 Suporte
-
-Para dúvidas ou sugestões, entre em contato ou abra uma issue no repositório.
-
 ## 📄 Licença
 
 Este projeto está sob licença MIT. Veja o arquivo LICENSE para mais detalhes.
